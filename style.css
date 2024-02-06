@@ -1,0 +1,14 @@
+body{
+    background-color: lightgrey;
+}
+.jaya{background-color: lightgreen;}
+table{
+    border: 2px solid #000000;
+    border-collapse: collapse;
+    width: 52%;
+    text-align: center;
+}
+th,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
